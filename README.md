@@ -1,93 +1,82 @@
 # Frontend Mentor - Huddle landing page with single introductory section
 
-![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
+Ushbu front-end kodlash sinovini tekshirganingiz uchun tashakkur.
 
-## Welcome! 👋
+[Frontend Mentor](https://www.frontendmentor.io) vazifalari real loyihalarni yaratish orqali kodlash mahoratingizni oshirishga yordam beradi.
 
-Thanks for checking out this front-end coding challenge.
+**Bu vazifani bajarish uchun sizga HTML va CSS haqida asosiy tushuncha kerak.**
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+## Challenge
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+Sizning vazifangiz boshlang'ich kodida keltirilgan dizaynlardan ushbu ochilish sahifasini yaratishdir.
 
-## The challenge
+Muammoni hal qilishda sizga yoqadigan har qanday vositalardan foydalanishingiz mumkin. Shunday ekan, agar sizda mashq qilmoqchi bo'lgan narsangiz bo'lsa, uni sinab ko'ring.
 
-Your challenge is to build out this landing page from the designs provided in the starter code.
+Sizning foydalanuvchilaringiz quyidagilarga ega bo'lishi kerak:
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+- Qurilmaning ekran o'lchamiga qarab sahifaning optimal tartibini ko'rishi
+- Sahifadagi barcha interaktiv elementlar uchun kursor holatiga kelishi
 
-Your users should be able to: 
+Challengeda qo'llab-quvvatlashni xohlaysizmi? [Slack hamjamiyatimizga qoʻshiling](https://www.frontendmentor.io/slack) va **#help** kanalida savollar bering.
 
-- View the optimal layout for the page depending on their device's screen size
-- See hover states for all interactive elements on the page
+## Hamma narsani qaerdan topish mumkin
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+Sizning vazifangiz `/design` jildidagi dizaynlarga loyihani yaratishdir. Siz dizaynning mobil va ish stoli versiyasini topasiz.
 
-## Where to find everything
+Dizaynlar JPG statik formatida. JPG-dan foydalanish `shrift o'lchami`, `to'ldirish` va `chekka` kabi uslublar uchun o'zingizning eng yaxshi fikringizni ishlatishingiz kerakligini anglatadi.
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+Agar siz dizayn fayllarini (biz Sketch & Figma versiyalarini taqdim etamiz) dizaynni batafsil tekshirishni istasangiz, [PRO aʼzosi sifatida obuna boʻlishingiz mumkin](https://www.frontendmentor.io/pro).
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+Siz barcha kerakli aktivlarni `/images` jildida topasiz. Aktivlar allaqachon optimallashtirilgan.
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+Ranglar palitrasi va shriftlar kabi sizga kerak bo'ladigan ma'lumotlarni o'z ichiga olgan "style-guide.md" fayli ham mavjud.
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+## Loyihangizni yaratish
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+O'zingizga qulay bo'lgan har qanday ish jarayonidan bemalol foydalaning. Quyida tavsiya etilgan jarayon keltirilgan, ammo bu bosqichlarni bajarishingiz shart emas:
 
-## Building your project
+1. Loyihangizni [GitHub](https://github.com/) da umumiy ombor sifatida ishga tushiring. Agar yordam kerak bo'lsa, repo yaratish sizning kodingizni hamjamiyat bilan baham ko'rishni osonlashtiradi. Agar buni qanday qilishni bilmasangiz, [Ushbu Git resursini sinab koʻring](https://try.github.io/).
+2. Kodingizni veb-manzilga nashr qilish uchun omboringizni sozlang. Agar muammoni hal qilishda sizga yordam kerak bo'lsa, bu ham foydali bo'ladi, chunki loyihangiz URL manzilini repo URL manzili bilan baham ko'rishingiz mumkin. Buni qilishning bir qancha usullari mavjud va biz quyida ba'zi tavsiyalarni beramiz.
+3. Loyihani qanday hal qilishni rejalashtirishni boshlash uchun dizaynlarni ko'rib chiqing. Ushbu qadam CSS sinflarini qayta ishlatish mumkin bo'lgan uslublarni yaratish uchun oldindan o'ylashga yordam berish uchun juda muhimdir.
+4. Har qanday uslubni qo'shishdan oldin tarkibingizni HTML bilan tuzing. Avval HTML-ni yozish diqqatingizni yaxshi tuzilgan tarkib yaratishga qaratishga yordam beradi.
+5. Loyihangiz uchun asosiy uslublarni, jumladan, “shrift-family” va “shrift-size” kabi umumiy tarkib uslublarini yozing.
+6. Sahifaning yuqori qismiga uslublar qo'shishni boshlang va pastga tushing. Siz ishlayotgan sohani tugatganingizdan xursand bo'lganingizdan keyingina keyingi bo'limga o'ting.
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+## Loyihangizni hostingga qo'yish
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+Yuqorida aytib o'tilganidek, loyihangizni bepul joylashtirishning ko'plab usullari mavjud. Tavsiya etilgan xostlarimiz:
 
-## Deploying your project
-
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
-
-- [GitHub Pages](https://pages.github.com/)
+- [GitHub sahifalari](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+Siz ushbu yechimlardan biri yoki boshqa ishonchli provayderlarimiz yordamida saytingizni joylashtirishingiz mumkin. [Tavsiya etilgan va ishonchli xostlarimiz haqida koʻproq oʻqing](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
-## Create a custom `README.md`
+## Maxsus “README.md” yarating
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+Biz ushbu “README.md” ni maxsus bilan qayta yozishni tavsiya qilamiz. Biz ushbu boshlang‘ich kodida [`README-template.md`](./README-template.md) fayli ichida shablonni taqdim etdik.
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+Shablon nima qo'shish kerakligi haqida ko'rsatma beradi. Maxsus “README” loyihangizni tushuntirishga va o‘rgangan bilimlaringizni aks ettirishga yordam beradi. Iltimos, shablonimizni xohlagancha tahrir qiling.
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+Shablonga maʼlumotlaringizni qoʻshganingizdan soʻng, ushbu faylni oʻchirib tashlang va “README-template.md” faylining nomini “README.md” qilib oʻzgartiring. Bu sizning omboringiz README fayli sifatida ko'rinadi.
 
-## Submitting your solution
+## Yechim yuborilmoqda
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
+O'z yechimingizni jamoaning qolgan qismi ko'rishi uchun platformaga yuboring. Qanday qilish bo‘yicha maslahatlar uchun bizning [“Yechimlarni yuborish bo‘yicha to‘liq qo‘llanma”](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248)ga amal qiling. bu.
 
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+Esingizda bo'lsin, agar siz o'z yechimingiz haqida fikr-mulohaza izlayotgan bo'lsangiz, uni yuborishda savollar berishni unutmang. Savollaringiz qanchalik aniq va batafsil bo'lsa, jamiyatdan qimmatli fikr-mulohazalarni olish imkoniyati shunchalik yuqori bo'ladi.
 
-## Sharing your solution
+## Yechimni baham ko'ring
 
-There are multiple places you can share your solution:
+Yechimni baham ko'rishingiz mumkin bo'lgan bir nechta joylar mavjud:
 
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
+1. Yechim sahifangizni [Slack hamjamiyatining] **#finished-projects** kanalida baham ko'ring (https://www.frontendmentor.io/slack).
+2. Tweet qiling [@frontendmentor](https://twitter.com/frontendmentor) va **@frontendmentor** ni, shu jumladan tvitdagi repo va jonli URL manzillarini eslatib o'ting. Biz siz yaratgan narsalarni ko'rib chiqishni va uni atrofga baham ko'rishga yordam berishni xohlaymiz.
+3. Yechimni LinkedIn kabi boshqa ijtimoiy kanallarda baham ko'ring.
+4. Loyihangizni yaratish tajribangiz haqida blog. Ish jarayoni, texnik tanlovlaringiz haqida yozish va kodingiz orqali gaplashish - o'rganganlaringizni mustahkamlashning ajoyib usuli. Yozish uchun ajoyib platformalar: [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/) va [CodeNewbie](https://community.codenewbie.org) /).
 
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
+Yechimingizni platformaga yuborganingizdan so‘ng uni baham ko‘rishingizga yordam beradigan shablonlarni taqdim etamiz. Iltimos, ularni tahrirlang va fikr-mulohazalarni izlayotganingizda maxsus savollarni kiriting.
 
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
+Savollaringiz qanchalik aniq bo'lsa, jamiyatning boshqa a'zosi sizga fikr bildirishi ehtimoli shunchalik yuqori bo'ladi.
 
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
-# 2.Huddle-landing-page
+## Biz uchun fikr-mulohazalaringiz bormi?
